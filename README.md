@@ -156,3 +156,5 @@ they change on first login).
 - Email verification is intentionally out of scope for this build; the
   `must_change_password` flag on system-created accounts stands in for
   the "first login forces a real password" requirement instead.
+=======
+# Human-Resource-Management-System
